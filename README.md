@@ -4,7 +4,7 @@ A responsive single-page website for Iron Pulse Gym, built with React, Vite, and
 
 ## Live website
 
-**URL:** `(https://iron-pulse-jade.vercel.app/)`
+**URL:** `https://iron-pulse-jade.vercel.app/`
 
 ## Features
 
